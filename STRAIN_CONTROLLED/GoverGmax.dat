@@ -1,6 +1,0 @@
-# NONLINEARITY PPTS
-.false.		# Effective/Total stress analysis [T/F]
-50  		# Spring number
-# HYPERBOLIC MODEL PPTS
-0.000634    # Reference strain	
-#
