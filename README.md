@@ -9,3 +9,6 @@ Elemantary code —no wave propagation— for Iwan routine, used for testing non
 ## Content
 * [Example for strain-controlled loading](https://github.com/elifo/IWANelem/tree/master/STRAIN_CONTROLLED)
 * [Example for stress-controlled loading](https://github.com/elifo/IWANelem/tree/master/STRESS_CONTROLLED)
+
+
+For any questions, you can write to me; Check out my email address [here](https://elifo.github.io).
