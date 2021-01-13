@@ -1,5 +1,5 @@
 # IWANelem
-Elemantary code for Iwan routine, used for testing nonlinear soil behaviour under dynamic loading.
+Elemantary code —no wave propagation— for Iwan routine, used for testing nonlinear soil behaviour under dynamic loading.
 
 
 ## References 
